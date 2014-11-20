@@ -1,7 +1,5 @@
 # Jacman
 
-[中文说明](/README_zh.md)
-
 Jacman is a fresh looking and responsive theme for [Hexo](http://hexo.io) with more features and some build-in Chinese service based on [Pacman](https://github.com/A-limon/pacman).  
 
 [Demo](http://wuchong.me/jacman) | [Jark's Blog](http://wuchong.me)

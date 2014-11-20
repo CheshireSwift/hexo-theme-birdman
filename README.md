@@ -1,3 +1,5 @@
+remove non-ascii: grep -rP [^[:ascii:]]
+
 # Jacman
 
 Jacman is a fresh looking and responsive theme for [Hexo](http://hexo.io) with more features and some build-in Chinese service based on [Pacman](https://github.com/A-limon/pacman).  

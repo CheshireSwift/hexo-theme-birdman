@@ -62,12 +62,13 @@ toc:
 
 #### Links
 links:
-  Jark's Blog: http://wuchong.me
   Hexo: http://hexo.io
+  Glittery Things: http://glitterbat.co.uk
+  Delicious Things: http://geekeats.co.uk
   
 
 #### Comment
-duoshuo_shortname: ## e.g. wuchong   your duoshuo short name.
+#duoshuo_shortname: ## e.g. wuchong   your duoshuo short name.
 disqus_shortname:  ## e.g. wuchong   your disqus short name.
 
 #### Share button
